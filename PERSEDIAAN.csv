@@ -1,0 +1,21 @@
+persediaan_id,produk_id,jumlah,lokasi_gudang,tanggal_update
+1,1,54,Gudang A,5/22/2023
+2,4,366,Gudang B,5/30/2023
+3,1,85,Gudang C,4/11/2023
+4,1,499,Gudang D,10/10/2023
+5,2,225,Gudang E,3/9/2023
+6,2,483,Gudang A,1/22/2023
+7,5,226,Gudang B,3/7/2023
+8,2,201,Gudang C,12/21/2023
+9,1,245,Gudang D,4/30/2023
+10,1,344,Gudang E,7/7/2023
+11,4,434,Gudang A,10/18/2023
+12,2,428,Gudang B,8/20/2023
+13,4,150,Gudang C,3/22/2023
+14,4,77,Gudang D,3/10/2023
+15,1,289,Gudang E,12/23/2023
+16,3,391,Gudang A,6/25/2023
+17,4,228,Gudang B,2/21/2023
+18,4,248,Gudang C,11/21/2023
+19,3,153,Gudang D,10/5/2023
+20,2,147,Gudang E,1/7/2023
